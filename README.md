@@ -1,2 +1,2 @@
-# bug_report_triage
-This project intends to classify bug reports based on severity levels. 
+# Customer ticket classification
+This project intends to classify departments and priority based on IT issue tickets from customers. 
